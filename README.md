@@ -21,3 +21,17 @@ Saneeha Ahmed
 Tahreem Mumtaz
 
 
+## Files used by Heroku App:
+Procfile
+setup.sh
+QKDdistance.py
+requirements.txt
+
+## Code files used in the research
+OF_main.py : It shows the dispersion and relative loss of the optic fiber.
+RsiftAndQBER.py : It generates the graph of Rsift and QBER for a given protocol specifications.
+effKMB09.py : This code generates the efficiency of KMB09 protocol and determine the max efficiency obtained through it.
+poissonCurve.py : This code generates the Poisson distirbution for different values of mu.
+summaryGraph.py : This code generates the summary of all the attributes used and determine the optimal solution.
+
+
