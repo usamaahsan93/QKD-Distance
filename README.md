@@ -20,18 +20,25 @@ Saneeha Ahmed
 
 Tahreem Mumtaz
 
+Visit the link [here](https://qkddistance.herokuapp.com/) for interactive working of this research.
+
+## Required Packages
+numpy == 1.15.1
+matplotlib == 2.2.3
+scipy == 1.1.0
+pandas == 0.23.4
 
 ## Files used by Heroku App:
-Procfile
-setup.sh
-QKDdistance.py
-requirements.txt
+1. Procfile
+2. setup.sh
+3. QKDdistance.py
+4. requirements.txt
 
 ## Code files used in the research
-OF_main.py : It shows the dispersion and relative loss of the optic fiber.
-RsiftAndQBER.py : It generates the graph of Rsift and QBER for a given protocol specifications.
-effKMB09.py : This code generates the efficiency of KMB09 protocol and determine the max efficiency obtained through it.
-poissonCurve.py : This code generates the Poisson distirbution for different values of mu.
-summaryGraph.py : This code generates the summary of all the attributes used and determine the optimal solution.
+1. OF_main.py : It shows the dispersion and relative loss of the optic fiber.
+2. RsiftAndQBER.py : It generates the graph of Rsift and QBER for a given protocol specifications.
+3. effKMB09.py : This code generates the efficiency of KMB09 protocol and determine the max efficiency obtained through it.
+4. poissonCurve.py : This code generates the Poisson distirbution for different values of mu.
+5. summaryGraph.py : This code generates the summary of all the attributes used and determine the optimal solution.
 
 
