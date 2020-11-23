@@ -24,8 +24,11 @@ Visit the link [here](https://qkddistance.herokuapp.com/) for interactive workin
 
 ## Required Packages
 numpy == 1.15.1
+
 matplotlib == 2.2.3
+
 scipy == 1.1.0
+
 pandas == 0.23.4
 
 ## Files used by Heroku App:
